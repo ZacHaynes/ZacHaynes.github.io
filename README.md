@@ -1,3 +1,4 @@
+<title>Zac Haynes</title>
 # Interests
 - Watching Movies
 - Playing Video Games
